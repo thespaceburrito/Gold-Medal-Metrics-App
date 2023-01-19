@@ -15,7 +15,10 @@ To start, download project zip folder and after downloading the zip folder, doub
 
 To use the web app,
 
-open the root project directory in your terminal.
-run `./mvnw spring-boot:run`
-go to `https://localhost:3001`
+Open the root project directory in your terminal.
+
+Run 
+$ ./mvnw spring-boot:run 
+
+Go to `https://localhost:3001`
 
