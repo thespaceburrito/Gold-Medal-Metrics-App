@@ -12,8 +12,6 @@ Gold Medal Metrics allows users to:
  
 ### Prerequisites
 
-Requirements for the software and other tools to build, test and push 
-
 - Maven
 ```
   https://maven.apache.org/download.cgi
