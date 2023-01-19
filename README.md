@@ -15,9 +15,9 @@ Gold Medal Metrics allows users to:
 Requirements for the software and other tools to build, test and push 
 
 - Maven
-
+```
   https://maven.apache.org/download.cgi
-
+```
 ## How To Use
 
 To start, download project zip folder and after downloading the zip folder, double click it to uncompress it and access the contents of this project. Use your preffered source-code editor to view the contents.
