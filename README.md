@@ -8,6 +8,15 @@ Gold Medal Metrics allows users to:
  - View a detailed description of a country, with statistics on their Olympic wins.
  - View a list of every Olympic win a country has with the year, season, winner name, city, and event.
  - Sort the list of Olympic wins by any of these attributes.
+ 
+ 
+### Prerequisites
+
+Requirements for the software and other tools to build, test and push 
+
+- Maven
+
+  https://maven.apache.org/download.cgi
 
 ## How To Use
 
