@@ -27,8 +27,12 @@ To use the web app,
 Open the root project directory in your terminal.
 
 Run 
-```./mvnw spring-boot:run```
+```
+./mvnw spring-boot:run
+```
 
 Go to 
-```https://localhost:3001```
+```
+https://localhost:3001
+```
 
