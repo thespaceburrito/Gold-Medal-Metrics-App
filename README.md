@@ -1,7 +1,5 @@
 ## Project Overview
 
-In this project you will be writing all the SQL statements for an Olympic metrics reporting web application called Gold Medal Metrics.
-
 Gold Medal Metrics allows users to:
  - View countries in a list with their population, GDP, and number of Olympic gold medals.
  - Sort the list of countries by any of these attributes, as well as alphabetically by name.
