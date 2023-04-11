@@ -9,18 +9,17 @@ import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.Optional;
 
 
 @RestController
 @RequestMapping("/countries")
 public class GoldMedalController {
-    // TODO: declare references to your repositories
+    
 
     private final GoldMedalRepository goldMedalRepository;
     private final CountryRepository countryRepository;
     
-    // TODO: update your constructor to include your repositories
+    
 
     public GoldMedalController(final GoldMedalRepository goldMedalRepository, final CountryRepository countryRepository) {
         this.goldMedalRepository = goldMedalRepository;
